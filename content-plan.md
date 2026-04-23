@@ -14,8 +14,8 @@
 - topic3: Naming Conventions
 
 ## block3: Строки
-- topic1: String — основные методы
-- topic2: Иммутабельность String, конкатенация и StringBuilder
+- topic1: Класс String — основы
+- topic2: Особенности класса String — иммутабельность, пул строк, конкатенация и StringBuilder
 
 ## block4: Массивы
 - topic1: Одномерные массивы
