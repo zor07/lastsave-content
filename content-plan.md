@@ -33,28 +33,25 @@
 - topic3: == vs equals
 - topic4: Контракт equals и hashCode
 
-## block7: Автобоксинг / анбоксинг
-- topic1: Обёртки примитивов
-- topic2: Автобоксинг и анбоксинг
-- topic3: NPE при анбоксинге
-
-## block8: Исключения
-- topic1: Иерархия исключений — checked / unchecked
-- topic2: try / catch / finally
-- topic3: try-with-resources
-- topic4: Свои исключения
-
-## block9: I/O
-- topic1: Консольный ввод — Scanner
-- topic2: Как устроен ввод-вывод — потоки, буферизация (теория, без задач)
-- topic3: Класс File — создание, проверка существования, метаданные
-- topic4: Работа с файлами — Path, Files.readString / writeString / readAllLines
-
-## block10: ООП глубже
+## block7: ООП глубже
 - topic1: Наследование
 - topic2: Переопределение методов (overriding) и @Override
 - topic3: Абстрактные классы
 - topic4: Интерфейсы
+
+## block8: Исключения
+- topic1: Иерархия исключений — checked / unchecked (требует понимания наследования)
+- topic2: try / catch / finally
+- topic3: Свои исключения
+
+## block9: Автобоксинг / анбоксинг
+- topic1: Обёртки примитивов, автобоксинг, анбоксинг, NPE при анбоксинге
+
+## block10: I/O
+- topic1: Как устроен ввод-вывод — потоки, буферизация
+- topic2: try-with-resources — AutoCloseable и метод close (требует понимания интерфейсов)
+- topic3: Консольный ввод — Scanner
+- topic4: Работа с файлами — Path, Files.readString / writeString / readAllLines
 
 ## block11: Generics
 - topic1: Зачем нужны дженерики
