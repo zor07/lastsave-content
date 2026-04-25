@@ -44,20 +44,18 @@
 - topic2: try / catch / finally
 - topic3: Свои исключения
 
-## block9: Автобоксинг / анбоксинг
-- topic1: Обёртки примитивов, автобоксинг, анбоксинг, NPE при анбоксинге
-
-## block10: I/O
+## block9: I/O
 - topic1: Как устроен ввод-вывод — потоки, буферизация
 - topic2: try-with-resources — AutoCloseable и метод close (требует понимания интерфейсов)
 - topic3: Консольный ввод — Scanner
 - topic4: Работа с файлами — Path, Files.readString / writeString / readAllLines
 
-## block11: Generics
-- topic1: Зачем нужны дженерики
-- topic2: Параметризованные классы и методы
+## block10: Generics и автобоксинг
+- topic1: Обёртки примитивов, автобоксинг, анбоксинг, NPE при анбоксинге
+- topic2: Зачем нужны дженерики
+- topic3: Параметризованные классы и методы
 
-## block12: Коллекции
+## block11: Коллекции
 - topic1: List — ArrayList, LinkedList
 - topic2: Set — HashSet
 - topic3: Map — HashMap
