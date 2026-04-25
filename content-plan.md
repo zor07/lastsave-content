@@ -61,24 +61,10 @@
 - topic3: Map — HashMap
 - topic4: Сортировка — Comparable и Comparator
 
-## block13: Иммутабельные объекты
-- topic1: Концепция иммутабельности
-- topic2: Создание своего иммутабельного класса
-- topic3: Возврат копий вместо ссылок
-- topic4: Связь с hashCode и коллекциями
+## block13: Страшная Java — лямбды, стримы и работа с датой
+- topic1: Функциональные интерфейсы и лямбда-выражения
+- topic2: Stream API — filter, map, collect, reduce, Optional
+- topic3: Datetime API — LocalDate, LocalDateTime, форматирование
 
-## block14: Функциональные интерфейсы и лямбды
-- topic1: Функциональные интерфейсы — Function, Predicate, Consumer
-- topic2: Лямбда-выражения
-
-## block15: Stream API
-- topic1: Основные операции — filter, map, collect
-- topic2: Терминальные операции — reduce, count, findFirst
-- topic3: Optional
-
-## block16: Datetime API
-- topic1: LocalDate, LocalTime, LocalDateTime
-- topic2: Форматирование и парсинг
-
-## block17: Финальная задача
+## block14: Финальная задача
 - topic1: ...в разработке
